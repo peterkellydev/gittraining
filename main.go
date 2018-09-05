@@ -5,5 +5,5 @@ import fmt
 func main() {
     fmt.Println("hellow world")
     fmt.Println("hellow world again!...")
-    fmt.Println("hellow world again and again!......")
+    fmt.Println("hellow world again and again!...")
 }
